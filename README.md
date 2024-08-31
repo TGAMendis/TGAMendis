@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 #### Testing
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"></img> <img src="https://img.shields.io/badge/Spock-25A162?style=for-the-badge&logo=spock&logoColor=white" alt="Spock"></img> <img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Testify"></img> <img src="https://img.shields.io/badge/WireMock-000000?style=for-the-badge&logo=wiremock&logoColor=white" alt="WireMock"></img> <img src="https://img.shields.io/badge/Mockk-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Mockk"></img> <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Testcontainers"></img>
 #### Code Coverage 
-<img src="https://img.shields.io/sonar/coverage/-336791?style=for-the-badge&logo=coverage&logoColor=white" alt="Sonar Coverage"></img>
+<img src="https://img.shields.io/sonar/coverage/-336791?style=for-the-badge&logo=coverage&logoColor=white" alt="SonarCoverage"></img>
 <hr/>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TGAMendis&rank_icon=github" />
