@@ -44,6 +44,9 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TGAMendis&theme=2077" height="180em" />
 </div>
 
+### Github Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=TGAMendis&theme=algolia)](https://github.com/TGAMendisgithub-profile-trophy)
+
 ### Find me on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TGAMendis/)
 [![LinkeTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gehan.mendis)
