@@ -33,16 +33,16 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"></img> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"></img> <img src="https://img.shields.io/badge/Jaeger-000000?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger"></img> <img src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=zipkin&logoColor=white" alt="Zipkin"></img> <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"></img> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"></img>  
 #### Testing
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"></img> <img src="https://img.shields.io/badge/Spock-25A162?style=for-the-badge&logo=spock&logoColor=white" alt="Spock"></img> <img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Testify"></img> <img src="https://img.shields.io/badge/WireMock-000000?style=for-the-badge&logo=wiremock&logoColor=white" alt="WireMock"></img> <img src="https://img.shields.io/badge/Mockk-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Mockk"></img> <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Testcontainers"></img>
-#### Code Coverage 
-<img src="https://img.shields.io/sonar/coverage/-336791?style=for-the-badge&logo=coverage&logoColor=white" alt="SonarCoverage"></img>
-<hr/>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TGAMendis&rank_icon=github" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TGAMendis&layout=compact&langs_count=8&card_width=320" />
-</a>
-<hr/>
+
+### Github Statas:
+<div align="center">
+<a href="https://github.com/Gehan-Mendis">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TGAMendis&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TGAMendis&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TGAMendis&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TGAMendis&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TGAMendis&theme=2077" height="180em" />
+</div>
 
 ### Find me on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TGAMendis/)
