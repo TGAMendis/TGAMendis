@@ -22,12 +22,8 @@ You can click the Preview link to take a look at your changes.
 #### Messaging
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"></img> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"></img>
 #### Databases
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQl"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/HyperSQL%20Database-004C00?style=for-the-badge&logo=postgresql&logoColor=white" alt="HyperSQL Database"/>
-<img src="https://img.shields.io/badge/H2%20Database-4D7F9A?style=for-the-badge&logo=postgresql&logoColor=white" alt="H2 Database"/>
-
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQl"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+<img src="https://img.shields.io/badge/HyperSQL%20Database-004C00?style=for-the-badge&logo=postgresql&logoColor=white" alt="HyperSQL Database"/> <img src="https://img.shields.io/badge/H2%20Database-4D7F9A?style=for-the-badge&logo=postgresql&logoColor=white" alt="H2 Database"/>
 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></img> 
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"></img>
