@@ -31,9 +31,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" alt="CouchBase"></img>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></img>
 <img src="https://img.shields.io/badge/CouchDB-EA2328?style=for-the-badge&logo=apache-couchdb&logoColor=white" alt="CouchDB"></img>
-### Database Query Language
+#### Database Query Language
 <img src="https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/JPQL-3E6F8E?style=for-the-badge&logo=java&logoColor=white" alt="JPQL"/> <img src="https://img.shields.io/badge/HQL-3E6F8E?style=for-the-badge&logo=java&logoColor=white" alt="HQL"/>
-### Database Management Tools
+#### Database Management Tools
 <img src="https://img.shields.io/badge/phpMyAdmin-6A4B8A?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/> <img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/> <img src="https://img.shields.io/badge/pgAdmin-3E3E3E?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin"/>
 #### DevOps and CI/CD
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/Ansible-1F3A3D?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
@@ -47,13 +47,13 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"></img> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"></img> <img src="https://img.shields.io/badge/Jaeger-000000?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger"></img> <img src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=zipkin&logoColor=white" alt="Zipkin"></img> <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"></img> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"></img>  
 #### Testing
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"></img> <img src="https://img.shields.io/badge/Spock-25A162?style=for-the-badge&logo=spock&logoColor=white" alt="Spock"></img> <img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Testify"></img> <img src="https://img.shields.io/badge/WireMock-000000?style=for-the-badge&logo=wiremock&logoColor=white" alt="WireMock"></img> <img src="https://img.shields.io/badge/Mockk-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Mockk"></img> <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Testcontainers"></img>
-### Web Services:
+#### Web Services:
 <img src="https://img.shields.io/badge/SOAP-005B96?style=for-the-badge&logo=soap&logoColor=white" alt="SOAP"/> <img src="https://img.shields.io/badge/gRPC-3E8C3E?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/> <img src="https://img.shields.io/badge/REST-4C1B37?style=for-the-badge&logo=http&logoColor=white" alt="REST"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-### Data Formats:
+#### Data Formats:
 <img src="https://img.shields.io/badge/XML-0072B8?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-### Tools:
+#### Tools:
 <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/-Intellije%20Idea-007ACC?style=for-the-badge&logo=intellije-idea&logoColor=white" alt="IntelliJ IDEA"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postmna"/>  <img src="https://img.shields.io/badge/OpenAPI-7E5B9D?style=for-the-badge&logo=openapi&logoColor=white" alt="OpenAPI"/>
-### CRMs:
+#### CRMs:
 <img src="https://img.shields.io/badge/Liferay-0072B8?style=for-the-badge&logo=liferay&logoColor=white" alt="Liferay"/> <img src="https://img.shields.io/badge/OkWave_CRM-0072C6?style=for-the-badge&logo=okwave&logoColor=white" alt="OkWave CRM"/> <img src="https://img.shields.io/badge/Corteza-1A1A1A?style=for-the-badge&logo=corteza&logoColor=white" alt="Corteza"/>
 
 
