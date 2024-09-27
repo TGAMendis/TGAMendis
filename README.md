@@ -60,7 +60,8 @@ You can click the Preview link to take a look at your changes.
 #### Data Formats:
 <img src="https://img.shields.io/badge/XML-0072B8?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/> <img src="https://img.shields.io/badge/GSON-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="GSON"/>
 #### Tools:
-<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/-Intellije%20Idea-007ACC?style=for-the-badge&logo=intellije-idea&logoColor=white" alt="IntelliJ IDEA"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postmna"/>  <img src="https://img.shields.io/badge/OpenAPI-7E5B9D?style=for-the-badge&logo=openapi&logoColor=white" alt="OpenAPI"/>
+#### Deployment Tools:
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 #### CRMs:
 <img src="https://img.shields.io/badge/Liferay-0072B8?style=for-the-badge&logo=liferay&logoColor=white" alt="Liferay"/> <img src="https://img.shields.io/badge/OkWave_CRM-0072C6?style=for-the-badge&logo=okwave&logoColor=white" alt="OkWave CRM"/> <img src="https://img.shields.io/badge/Corteza-1A1A1A?style=for-the-badge&logo=corteza&logoColor=white" alt="Corteza"/>
 
