@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image2.png)
 
 - 👋 Hi, I’m @TGAMendis
 - 👀 I’m interested in ...
