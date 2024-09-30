@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://stackoverflow.com/users/1148552/gehan"><img src="https://stackoverflow.com/users/flair/1148552.png?theme=prussian" width="208" height="58" alt="profile for Gehan on Stack stackoverflow, a network of free, community-driven Q&amp;A sites" title="profile for Gehan Mendis on Stack Overflow, a network of free, community-driven Q&amp;A sites"></a>
 
-<!---### Profile View<div align = 'right'>![](https://komarev.com/ghpvc/?username=TGAMendis&color=yellow)</div>--->
+<!---### Profile View<div align = 'left'>![](https://komarev.com/ghpvc/?username=TGAMendis&color=yellow)</div>--->
 
 ## Tech Stack
 ![Technologies](./technologies.png)
