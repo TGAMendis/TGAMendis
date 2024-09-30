@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 <!---### Profile View<div align = 'right'>![](https://komarev.com/ghpvc/?username=TGAMendis&color=yellow)</div>--->
 
+## Tech Stack
+![Technologies](./technologies.png)
+
 #### Backend Technologies
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Pascal-0071B5?style=for-the-badge&logo=pascal&logoColor=white" alt="Pascal"/> <img src="https://img.shields.io/badge/Modula-2-0071B5?style=for-the-badge&logo=modula2&logoColor=white" alt="Modula-2"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Delphi-EE6E21?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"/> 
 #### Frontend Technologies
