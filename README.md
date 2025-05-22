@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @TGAMendis
 - 👀 I’m interested in Sytem Design , Development , Clean Coding 
-- 🌱 I’m currently learning AIDevOps and Cloud technologies
+- 🌱 I’m currently learning AI, DevOps and Cloud technologies
 - 💞️ I’m looking to collaborate on Freelance projects or Mentoring 
 - 📫 How to reach me warhorseone.architect@gmail.com
 - 😄 Pronouns: He/Him
