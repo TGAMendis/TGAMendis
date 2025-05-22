@@ -1,8 +1,8 @@
 ![Header](./github-header-image2.png)
 
 - 👋 Hi, I’m @TGAMendis
-- 👀 I’m interested in sytem design , development , architecture 
-- 🌱 I’m currently learning devops and Cloud technologies
+- 👀 I’m interested in Sytem Design , Development , Clean Coding 
+- 🌱 I’m currently learning AIDevOps and Cloud technologies
 - 💞️ I’m looking to collaborate on Freelance projects or Mentoring 
 - 📫 How to reach me warhorseone.architect@gmail.com
 - 😄 Pronouns: He/Him
